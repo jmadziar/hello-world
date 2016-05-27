@@ -1,2 +1,6 @@
 # hello-world
-Test repository
+
+To All!
+I chanded the readme file, because I wanted :)
+
+Jarek
